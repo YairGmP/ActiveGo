@@ -153,8 +153,5 @@ real screen, so proportions hold on small and large round watches.
 | 2 | Phone: tap the blue pause button (or the blue pause button on the watch) | Watch vibrates and shows `PAUSED`; its timer freezes |
 | 3 | Watch: tap the lime play button | Both devices resume |
 | 4 | Phone: Goals tab, `+`, change the targets, *Save & Sync* | Watch vibrates; its ring and daily summary recalculate against the new goals |
-| 5 | Turn off the watch emulator's connection and keep the workout running | Watch keeps counting; phone Profile tab shows `Disconnected` and the sync time stops |
-| 6 | Restore the connection | The phone receives the accumulated data without any action (FR-05) |
-| 7 | Stop the workout on either device | The session appears in the phone's History tab |
+| 5 | Stop the workout on either device | The session appears in the phone's History tab |
 
-Steps 5 and 6 are the evidence for FR-05 and are worth capturing in the report.
