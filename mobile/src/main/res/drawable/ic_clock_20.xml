@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Converted 1:1 from the ActiveGo Figma export (Lucide icon, Figma stroke 2px at 20dp). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="20dp"
+    android:height="20dp"
+    android:viewportWidth="20"
+    android:viewportHeight="20">
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#8B958B"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:pathData="M10 4.99958V9.99998L13.3336 11.6668M18.334 9.99998C18.334 14.6027 14.6028 18.334 10 18.334C5.39727 18.334 1.66602 14.6027 1.66602 9.99998C1.66602 5.39724 5.39727 1.66599 10 1.66599C14.6028 1.66599 18.334 5.39724 18.334 9.99998Z" />
+</vector>
